@@ -1,0 +1,18 @@
+{
+	"Cotizaciones":[
+		{
+			"Moneda": "Dolar",
+			"Compra": 39,
+			"Venta": 40
+		},
+		{
+			"Moneda": "Argentino",
+			"Compra": 0.5,
+			"Venta": 0.1
+		},{
+			"Moneda": "Real",
+			"Compra": 9,
+			"Venta": 7
+		}
+	]
+}
